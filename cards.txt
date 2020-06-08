@@ -1,0 +1,12 @@
+# Level 1 Cards (Currently only level)
+1,5,4,1,Geezard
+5,3,1,1,Funguar
+1,5,3,1,Bite Bug
+6,2,1,1,Red Bat
+2,5,3,1,Blobra
+2,4,1,4,Gayla
+1,1,5,4,Gesper
+3,1,5,2,Fastitocalon-F
+2,1,1,6,Blood Soul
+4,3,2,4,Caterchipillar
+2,6,1,2,Cockatrice
