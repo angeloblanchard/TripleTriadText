@@ -1,4 +1,15 @@
-import Card
+from CardList import CardList
+from Hand import Hand
+
+if __name__ == '__main__':
+    print("Starting Triple Triad Text...")
+    card_list = CardList()
+    card_list.shuffle()
+    card_list.shuffle()
+
+    hand = Hand()
+    hand.draw_cards(card_list)
+    hand.inspect_hand()
 
 
 class Board:
@@ -22,3 +33,5 @@ class Board:
     @positions.setter
     def positions(self, positions):
         self._positions = positions
+
+
